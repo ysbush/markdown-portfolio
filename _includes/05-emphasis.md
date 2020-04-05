@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Languages: English, Japanese, Korean*
+_C# PHP_
+
+**GITHUB**
+__FLUTTER__
+
+_You **can** combine them_
+
+:sparkles:
